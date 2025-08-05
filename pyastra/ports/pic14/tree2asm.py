@@ -2,10 +2,7 @@
 # $Id: tree2asm.py 104 2004-12-23 21:30:35Z estyler $
 #
 # Description: pic14 tree to assemler convertor. Pyastra project.
-# Author: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>
-#    
-# Copyright (c) 2004 Alex Ziranov.  All rights reserved.
-#
+# Author of original Pyastra: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>. See more information at https://pyastra.sourceforge.net/
 ############################################################################
 #
 # This program is free software; you can redistribute it and/or modify
