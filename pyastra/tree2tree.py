@@ -23,7 +23,7 @@
 # Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 #
 ############################################################################
-
+#Author of original Pyastra
 import sys, os.path, compiler, pyastra.ports.pic14
 from ast import *
 from pyastra.ports.pic14.tree2asm import tree2asm
