@@ -1,5 +1,27 @@
 ############################################################################
-# Author of original Pyastra: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>. See more information at https://pyastra.sourceforge.net/
+# $Id: __init__.py 95 2004-11-28 18:50:38Z estyler $
+#
+# Description: pic14 processors definitions. Pyastra project.
+# Author: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>
+#    
+# Copyright (c) 2004 Alex Ziranov.  All rights reserved.
+#
+############################################################################
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Library General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+#
 ############################################################################
 
 __all__ = ['16c432', '16c433', '16c505', '16c554', '16c557', '16c558',
