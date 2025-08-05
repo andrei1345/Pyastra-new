@@ -2,10 +2,7 @@
 # $Id: builtins.py 107 2005-04-05 15:11:51Z estyler $
 #
 # Description: pic14 specific built-ins. Pyastra project.
-# Author: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>
-#    
-# Copyright (c) 2004 Alex Ziranov.  All rights reserved.
-#
+# Author of original Pyastra: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>. See more information at https://pyastra.sourceforge.net/
 ############################################################################
 #
 # This program is free software; you can redistribute it and/or modify
