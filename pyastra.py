@@ -3,7 +3,7 @@
 # $Id: pyastra 105 2004-12-24 20:38:25Z estyler $
 #
 # Description: Console front-end. Pyastra project.
-# Author of original Pyastra: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>. See information at https://pyastra.sourceforge.net/
+# Author of original Pyastra: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>. See more information at https://pyastra.sourceforge.net/
 ############################################################################
 #Exit codes:
 # 0 - ok
