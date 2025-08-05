@@ -3,7 +3,7 @@
 #
 # Description: Port-independent optimizer. Pyastra project.
 # Author of original Pyastra: Alex Ziranov <estyler _at_ users _dot_ sourceforge _dot_ net>. See information at https://pyastra.sourceforge.net/
-
+############################################################################
 import sys, os.path, compiler, pyastra.ports.pic14
 from ast import *
 from pyastra.ports.pic14.tree2asm import tree2asm
